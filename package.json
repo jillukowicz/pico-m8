@@ -1,0 +1,16 @@
+{
+  "name": "pico-m8",
+  "version": "0.0.1",
+  "private": false,
+  "bin": {
+    "pico-m8": "./pico-m8.js"
+  },
+  "dependencies": {
+    "commander": "^2.9.0"
+  },
+  "description": "Pico-8 dev tools",
+  "main": "pico-m8.js",
+  "devDependencies": {},
+  "author": "jillukowicz",
+  "license": "ISC"
+}
